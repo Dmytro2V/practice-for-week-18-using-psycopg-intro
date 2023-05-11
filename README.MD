@@ -1,5 +1,7 @@
 Using Psycopg / Attention: no info on setup and connect to postgres. 
-/used tricky internet recommendations.
+/used tricky internet recommendations, like here:
+https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
+
 No one has completed this Reading lately, be the first!
 Using Psycopg
 Just as you used the pg library in JavaScript to connect to PostgreSQL, you will use a package in Python to connect to and interact with the RDBMS. Unlike JavaScript, there are four actively maintained Python packages that provide connectivity to PostgreSQL. This article presents Psycopg (pronounced like "Psycho P.G.") which is the default used by SQLAlchemy, the ORM that you will use in later lessons. By the end of this article, you should be able to:
